@@ -1,4 +1,6 @@
-streamlit==1.40.2
+streamlit==1.28.0
+torch==2.1.0
+transformers==4.35.0
+huggingface-hub==0.19.4
+langchain==0.0.339
 mlx-lm==0.18.2
-huggingface-hub==0.26.3
-langchain==0.3.13
